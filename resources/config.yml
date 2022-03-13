@@ -1,0 +1,37 @@
+# Lobby world name
+lobby-world: "lobby"
+
+# The scoreboard title
+scoreboard-title: "{BOLD}{YELLOW}The Bridge"
+
+# The knockback that the players will have when they are being hit
+knockback: 0.389
+
+# Attack cooldown (in ticks) (1 tick = 0.05 seconds)
+attack-cooldown: 10 # 0.5 seconds
+
+# Provider
+# Available providers: sqlite, json, yaml
+provider: "json"
+
+# The seconds that will the match wait to start the starting stage
+countdown-seconds: 5
+
+# The seconds that will the match wait to start
+starting-seconds: 5
+
+# The seconds that will the match wait to open the cages
+opening-cages-seconds: 5
+
+# The seconds that will the match wait to end
+ending-seconds: 5
+
+# The cooldown that has the bow
+bow-cooldown: 3
+
+# The cooldown that has the gapple
+gapple-cooldown: 5
+
+# The max players in the gamemode.
+# 1 = 1v1, 2 = 2v2, 3 = 3v3, 4 = 4v4
+gamemode-max: 1
